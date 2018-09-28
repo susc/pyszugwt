@@ -8,6 +8,7 @@
 
 - Python 3.6.3及以上
 - Windows 10
+- MySQL 5.7.21
 
 ## 预览图
 
